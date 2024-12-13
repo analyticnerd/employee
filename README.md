@@ -1,1 +1,1 @@
-The two files that have been posted here contain the employee details of an organization, please note that all the details entered here are hypothetical containing arbitrary values of details, sincei made these 2 files just for understanding SQL applications.
+The two files that have been posted here contain the employee details of an organization, please note that all the details entered here are hypothetical containing arbitrary values of details, since i made these 2 files just for understanding SQL applications.
